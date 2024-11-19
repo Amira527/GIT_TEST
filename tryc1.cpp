@@ -2,8 +2,8 @@
 using namespace std;
 int main() {
     
-cout<<"AMIRA" <<endl; 
-cout<<"is dbst" <<endl;
+cout<<"Tick task" <<endl; 
+
     
     return 0;
 
